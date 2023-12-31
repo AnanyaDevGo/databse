@@ -13,6 +13,7 @@ var name string
 var domain string
 
 
+
 func main() {
 	var choice int
 	db := connectPostgresDB()
